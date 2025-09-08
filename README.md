@@ -1,6 +1,6 @@
-# Swikriti E-Commerce Sales Dashboard
+# Hritik E-Commerce Sales Dashboard
 
-Welcome to the Swikriti E-Commerce Sales Dashboard
+Welcome to the Hritik E-Commerce Sales Dashboard
 
 ![](https://github.com/Hritik0052/Sales_Dashboard/blob/main/Screenshot%202025-09-08%20172034.png)
 
@@ -85,5 +85,5 @@ Customer Segmentation assessments categorize customers based on diverse attribut
 
 ## Author Details:
 
-- **Developed By : ** [Hritik](https://github.com/Hritik0052)
+- **Developed By:** [Hritik](https://github.com/Hritik0052)
 
